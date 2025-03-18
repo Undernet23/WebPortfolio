@@ -1,6 +1,6 @@
 title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://pythonhow.com;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/Undernet23/To-Do-WebApp;1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/Undernet23/WebPortfolio;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://pythonhow.com;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
@@ -9,7 +9,7 @@ Download Cleaner;A script that monitors the Downloads folder and deletes old fil
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;10.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;11.png
+Camera Filter Web App;A minimalistic web based camera filter application.;https://github.com/Undernet23/CameraFilterWebApp;11.png
 Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://pythonhow.com;12.png
 Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;13.png
 Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;14.png
